@@ -46,7 +46,6 @@ export default class App extends Component<IUserState, IUserProps> {
     }, 1000)
   }
 
-  // @ts-ignore
   public openPopup(): Window | null {
     const width = 600, height = 600
     const left = (window.innerWidth / 2) - (width / 2)
