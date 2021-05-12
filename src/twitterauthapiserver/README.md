@@ -3,12 +3,11 @@
 ## Getting Started
 
 ```
-git clone https://github.com/funador/react-auth-server.git
+git clone https://github.com/amahmood561/twitterAuth.git
 cd react-auth-server
 npm i && npm run dev
 ```
 
-If you only want to use Facebook/Github/GoogleTwitter authentication, follow the instructions in [this branch](https://github.com/funador/react-auth-client)
 
 ## Setting up your .env file
 ```
@@ -24,7 +23,7 @@ npm run dev
 Everything is set up to deploy to Heroku, you just need to plug in the environment variables for twitter.
 
 ### Client
-Please follow the instructions [for setting up the client repo](https://github.com/funador/react-auth-client/tree/twitter-auth)
+Please follow the instructions [for setting up the client repo]https://github.com/amahmood561/twitterAuth)
 
 ### Issues
 Something not working?  Please [open an issue](https://github.com/funador/react-auth-server/issues)
